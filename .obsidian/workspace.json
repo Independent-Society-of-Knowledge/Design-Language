@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "d44ffd73c23a0aa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a75616fef0f60973",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a89c0d7e942db46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-foundation/mission-vision-values.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mission-vision-values"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db014d7c269ec7e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d891fb98a28e38c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f99fb9248008ff7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "de003d1619a2e220",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fdd1c5b8097df17d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05ccbb52911f9dfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "87b74a174e00a705",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8819bdd38f122c24",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2-brand-assets/colors/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "796c26da39e4424a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-foundation/brand-narrative.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from brand-narrative"
+            }
+          },
+          {
+            "id": "0685f92aa9378ce9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b6edd132f7a13ed2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-foundation/brand-narrative.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of brand-narrative"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4a89c0d7e942db46",
+  "lastOpenFiles": [
+    "1-foundation/brand-narrative.md",
+    "1-foundation/brand-ethos.md",
+    "2-brand-assets/colors/Untitled.md",
+    "2-brand-assets/colors/environmental-extensions.md",
+    "1-foundation/mission-vision-values.md",
+    "h.md",
+    "h.txt"
+  ]
+}
